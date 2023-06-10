@@ -1,0 +1,8 @@
+numpy
+pandas
+plotly
+kmapper
+xarray
+scikit-learn
+giotto-tda
+netCDF4
